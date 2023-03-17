@@ -1,4 +1,4 @@
-#Assignment Intructions:
+# Assignment Intructions:
 
 Now that you have been equipped with the skills to use different Machine Learning algorithms, over the course of five weeks, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not.
 
@@ -42,7 +42,7 @@ Notice 2: You have to create an IBM Object Storage, if you dont have any IBM Obj
 
 - Give the notebook a proper name and description and click on Create Notebook to initialize the notebook
 
-#C. Complete the notebook
+# C. Complete the notebook
 
 - Start running the notebook
 - Complete the notebook based on the description in the notebook.
